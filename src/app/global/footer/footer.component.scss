@@ -1,0 +1,17 @@
+footer{
+    border-top: 1px solid #000;
+    bottom: 0;
+    width: 90%;
+    margin-left: 80px;
+    .company{
+        float: left;
+        margin: 10px;
+        font-size: 18px;
+    }
+
+    .icons{
+        display: flex;
+        justify-content: right;
+        margin: 10px;
+    }
+}
